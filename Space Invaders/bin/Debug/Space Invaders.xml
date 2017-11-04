@@ -1,0 +1,167 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Space Invaders
+</name>
+</assembly>
+<members>
+<member name="T:Space_Invaders.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.carlosadiaz644presents_SPACE_INVADERS_OFFICIAL_THE">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.Fire_Explosion_PNG_Picture_Clipart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.galagaship2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.invaderpos2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.missilepowerup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.shield">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.shieldhit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.space_invadertrans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources.Resources.SpeedPowerup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Space_Invaders.My.Resources1.Resources1">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.carlosadiaz644presents_SPACE_INVADERS_OFFICIAL_THE">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.explosion">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.Fire_Explosion_PNG_Picture_Clipart">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.galagaship2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.invaderkilled">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.invaderpos2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.joel_the_spanner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.missilepowerup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.shield">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.shieldhit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.ship">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.shoot">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.space_invadertrans">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.SpeedPowerup">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.UFO">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Space_Invaders.My.Resources1.Resources1.ufo_lowpitch">
+<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member>
+</members>
+</doc>
